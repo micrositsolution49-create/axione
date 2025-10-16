@@ -1,0 +1,55 @@
+.logo img{
+    width: 175px !important;
+}
+.footer-logo img{
+    width: 250px !important;
+
+}
+.contact-banner-area-start {
+    height: auto;
+    top: 90px;
+}
+.banner-area-left-service-single .title {
+    /* font-size: 70px; */
+}
+.contact-form-page {
+    margin-top: 0 !important;
+}
+.banner-one-content-left .title {
+    font-size: 75px;
+}
+
+.swiper-slide{
+   text-align: center;
+
+}
+.swiper-slide img{
+    width: 50px !important;
+
+}
+.icon img{
+    width: 40px;
+}
+.service-page-service-style img:hover {
+    fill: red;
+}
+.swiper-slide small{
+    line-height: 1.2;
+    padding-top: 6px;
+}
+@media (max-width: 900px) {
+    .dsib {
+        display: inline-block !important;
+        margin-top: 2rem;
+    }
+    .banner-one-content-left .title {
+    font-size: 55px;
+}
+.thumbnail {
+    padding-top: 3rem;
+}
+    h1 {
+        font-size: 36px;
+        line-height: 30px;
+    }
+}
