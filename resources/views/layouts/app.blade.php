@@ -4,7 +4,30 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     
-    <title>@yield('title', 'Axione Solutions')</title>
+    <title>@yield('title')</title>
+    <meta name="description" content="@yield('meta_description')">
+    <meta name="keywords" content="@yield('meta_keywords')">
+    <link rel="canonical" href="@yield('canonical')">
+    <!-- Canonical -->
+
+    <!-- Robots -->
+    <meta name="robots" content="index, follow" />
+    <meta name="googlebot" content="index, follow" />
+    <meta name="bingbot" content="index, follow" />
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:title" content="Best Digital Marketing Agency in Noida | Axione Solutions">
+    <meta property="og:description" content="Grow your brand faster with Noida’s top digital marketing experts at Axione Solutions with SEO, SMM, PPC, and full digital marketing services.">
+    <meta property="og:url" content="https://axionesolutions.in/">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="https://axionesolutions.in/assets/images/og-image.jpg">
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Best Digital Marketing Agency in Noida | Axione Solutions">
+    <meta name="twitter:description" content="Axione Solutions offers SEO, SMM, PPC, Web Development & full digital marketing services in Noida to grow your business.">
+    <meta name="twitter:image" content="https://axionesolutions.in/assets/images/og-image.jpg">
+
     <link rel="icon" type="image/png" href="{{ asset('assets/images/logo/axione-solutions-logo-fvn.png')}}">
     <!-- swiper css -->
     <link rel="stylesheet preload" href="{{ asset('assets/css/plugins/swiper.min.css')}}" as="style">

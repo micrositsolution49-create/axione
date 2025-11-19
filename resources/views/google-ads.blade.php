@@ -1,6 +1,8 @@
 @extends('layouts.app')
 
-@section('title', 'Google Ads')
+@section('title', 'Google Ads Management Services | Best PPC Agency in Noida')
+@section('meta_description', 'Get high-ROI Google Ads campaigns with Axione Solutions. We specialize in PPC, lead generation, and paid advertising to boost your business growth.')
+@section('canonical', 'https://axionesolutions.in/google-ads')
 
 @section('content')
 

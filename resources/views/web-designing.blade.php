@@ -1,6 +1,8 @@
 @extends('layouts.app')
 
-@section('title', 'Web Designing')
+@section('title', 'Website Designing Services | Modern & Responsive Web Designs')
+@section('meta_description', 'Axione Solutions provides professional website designing services including UI/UX, responsive layouts, and conversion-optimized designs.')
+@section('canonical', 'https://axionesolutions.in/web-designing')
 
 @section('content')
 

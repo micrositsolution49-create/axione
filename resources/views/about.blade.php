@@ -1,7 +1,8 @@
 @extends('layouts.app')
 
-@section('title', 'About Us')
-
+@section('title', 'About Us | Axione Solutions')
+@section('meta_description', 'Learn about Axione Solutions — a trusted digital marketing, web designing, branding, and development agency helping businesses grow with modern online solutions.')
+@section('canonical', 'https://axionesolutions.in/about')
 @section('content')
 
 <!-- about banner area srart -->

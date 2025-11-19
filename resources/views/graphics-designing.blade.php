@@ -1,6 +1,8 @@
 @extends('layouts.app')
 
-@section('title', 'Graphics Designing')
+@section('title', 'Graphic Designing Services | Logo, Branding & Creative Designs')
+@section('meta_description', 'Professional graphic designing services including logos, branding, social media creatives, brochures, and more by Axione Solutions.')
+@section('canonical', 'https://axionesolutions.in/graphics-designing')
 
 @section('content')
 

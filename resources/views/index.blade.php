@@ -1,7 +1,11 @@
 @extends('layouts.app')
 
-@section('title', 'Home')
+@section('title', 'Best Digital Marketing Agency in Noida | Axione Solutions')
 
+@section('meta_description', 'Grow your brand faster with Noida’s top digital marketing experts at Axione Solutions. We provide SEO, SMM, PPC, Website Designing, Branding, and full-service online marketing designed to maximize your business results.')
+
+@section('meta_keywords', 'Axione Solutions, digital marketing agency in Noida, best digital marketing company Noida, SEO services Noida, social media marketing Noida, PPC company Noida, website design Noida')
+@section('canonical', 'https://axionesolutions.in/')
 @section('content')
     <div class="rts-banner-area-one home-five rts-section-gap">
         <div class="box-one-top"></div>

@@ -1,6 +1,8 @@
 @extends('layouts.app')
 
-@section('title', 'Privacy Policy')
+@section('title', 'Privacy Policy | Axione Solutions')
+@section('meta_description', 'Read the privacy policy of Axione Solutions to understand how we collect, use, and protect your personal information.')
+@section('canonical', 'https://axionesolutions.in/privacy-policy')
 
 @section('content')
 

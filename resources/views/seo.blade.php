@@ -1,6 +1,8 @@
 @extends('layouts.app')
 
-@section('title', 'SEO')
+@section('title', 'SEO Services in Noida | Rank Higher with Axione Solutions')
+@section('meta_description', 'Boost your rankings with Axione Solutions’ expert SEO services including on-page, off-page, technical SEO, and local SEO strategies.')
+@section('canonical', 'https://axionesolutions.in/seo')
 
 @section('content')
 

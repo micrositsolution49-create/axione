@@ -1,6 +1,8 @@
 @extends('layouts.app')
 
-@section('title', 'Contact Us')
+@section('title', 'Contact Us | Axione Solutions')
+@section('meta_description', 'Get in touch with Axione Solutions for SEO, SMM, PPC, Website Designing, and Digital Marketing services. We’re here to help your business grow.')
+@section('canonical', 'https://axionesolutions.in/contact')
 
 @section('content')
 

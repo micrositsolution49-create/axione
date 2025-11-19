@@ -1,6 +1,8 @@
 @extends('layouts.app')
 
-@section('title', 'Blog')
+@section('title', 'Blog - Tips, SEO Guides & Online Growth Strategies | Axione Solutions')
+@section('meta_description', 'Explore Axione Solutions’ blog for expert tips on SEO, SMM, PPC, branding, and digital marketing strategies to grow your business online.')
+@section('canonical', 'https://axionesolutions.in/blog')
 
 @section('content')
 

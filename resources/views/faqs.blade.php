@@ -1,6 +1,8 @@
 @extends('layouts.app')
 
-@section('title', 'FAQS')
+@section('title', 'FAQs | Frequently Asked Questions – Axione Solutions')
+@section('meta_description', 'Find answers to common questions about Axione Solutions’ digital marketing, web development, SEO, and branding services.')
+@section('canonical', 'https://axionesolutions.in/faqs')
 
 @section('content')
 

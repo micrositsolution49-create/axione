@@ -1,6 +1,8 @@
 @extends('layouts.app')
 
-@section('title', 'Web Development')
+@section('title', 'Web Development Services | Custom Websites & Web Applications')
+@section('meta_description', 'Get powerful, scalable, and secure web development services with Axione Solutions — Laravel, PHP, WordPress, ecommerce, and custom applications.')
+@section('canonical', 'https://axionesolutions.in/web-development')
 
 @section('content')
 

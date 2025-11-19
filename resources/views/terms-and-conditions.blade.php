@@ -1,6 +1,8 @@
 @extends('layouts.app')
 
-@section('title', 'Terms and Conditions')
+@section('title', 'Terms & Conditions | Axione Solutions')
+@section('meta_description', 'Review the terms and conditions for using Axione Solutions’ website and digital marketing services.')
+@section('canonical', 'https://axionesolutions.in/terms-and-conditions')
 
 @section('content')
 

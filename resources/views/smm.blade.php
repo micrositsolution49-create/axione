@@ -1,6 +1,8 @@
 @extends('layouts.app')
 
-@section('title', 'SMM')
+@section('title', 'Social Media Marketing Services | Best SMM Company in Noida')
+@section('meta_description', 'Grow your brand on social media with Axione Solutions’ SMM services — content creation, ads management, strategy, and engagement.')
+@section('canonical', 'https://axionesolutions.in/smm')
 
 @section('content')
 
